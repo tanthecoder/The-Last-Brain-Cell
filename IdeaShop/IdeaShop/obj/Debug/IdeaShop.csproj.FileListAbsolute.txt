@@ -1,0 +1,811 @@
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\IdeaShop\IdeaShop\bin\IdeaShop.dll.config
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\IdeaShop\IdeaShop\bin\IdeaShop.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\IdeaShop\IdeaShop\bin\IdeaShop.pdb
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\IdeaShop\IdeaShop\bin\roslyn\csc.exe
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\IdeaShop\IdeaShop\bin\roslyn\csc.exe.config
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\IdeaShop\IdeaShop\bin\roslyn\csc.rsp
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\IdeaShop\IdeaShop\bin\roslyn\csi.exe
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\IdeaShop\IdeaShop\bin\roslyn\csi.exe.config
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\IdeaShop\IdeaShop\bin\roslyn\csi.rsp
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\IdeaShop\IdeaShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\IdeaShop\IdeaShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\IdeaShop\IdeaShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\IdeaShop\IdeaShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\IdeaShop\IdeaShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\IdeaShop\IdeaShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\IdeaShop\IdeaShop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\IdeaShop\IdeaShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\IdeaShop\IdeaShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\IdeaShop\IdeaShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\IdeaShop\IdeaShop\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\IdeaShop\IdeaShop\bin\roslyn\System.AppContext.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\IdeaShop\IdeaShop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\IdeaShop\IdeaShop\bin\roslyn\System.Console.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\IdeaShop\IdeaShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\IdeaShop\IdeaShop\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\IdeaShop\IdeaShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\IdeaShop\IdeaShop\bin\roslyn\System.IO.Compression.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\IdeaShop\IdeaShop\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\IdeaShop\IdeaShop\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\IdeaShop\IdeaShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\IdeaShop\IdeaShop\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\IdeaShop\IdeaShop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\IdeaShop\IdeaShop\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\IdeaShop\IdeaShop\bin\roslyn\System.Security.Claims.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\IdeaShop\IdeaShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\IdeaShop\IdeaShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\IdeaShop\IdeaShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\IdeaShop\IdeaShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\IdeaShop\IdeaShop\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\IdeaShop\IdeaShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\IdeaShop\IdeaShop\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\IdeaShop\IdeaShop\bin\roslyn\System.ValueTuple.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\IdeaShop\IdeaShop\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\IdeaShop\IdeaShop\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\IdeaShop\IdeaShop\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\IdeaShop\IdeaShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\IdeaShop\IdeaShop\bin\roslyn\vbc.exe
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\IdeaShop\IdeaShop\bin\roslyn\vbc.exe.config
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\IdeaShop\IdeaShop\bin\roslyn\vbc.rsp
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\IdeaShop\IdeaShop\bin\roslyn\VBCSCompiler.exe
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\IdeaShop\IdeaShop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\IdeaShop\IdeaShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\IdeaShop\IdeaShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\IdeaShop\IdeaShop\obj\Debug\IdeaShop.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\IdeaShop\IdeaShop\obj\Debug\IdeaShop.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\IdeaShop\IdeaShop\obj\Debug\IdeaShop.csproj.CopyComplete
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\IdeaShop\IdeaShop\obj\Debug\IdeaShop.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\IdeaShop\IdeaShop\obj\Debug\IdeaShop.pdb
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\IdeaShop\IdeaShop\IdeaShop\bin\IdeaShop.dll.config
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\IdeaShop\IdeaShop\IdeaShop\bin\IdeaShop.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\IdeaShop\IdeaShop\IdeaShop\bin\IdeaShop.pdb
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\csc.exe
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\csc.exe.config
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\csc.rsp
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\csi.exe
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\csi.exe.config
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\csi.rsp
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\System.AppContext.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\System.Collections.Immutable.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\System.Console.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\System.Diagnostics.Process.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\System.IO.Compression.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\System.IO.FileSystem.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\System.IO.Pipes.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\System.Reflection.Metadata.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\System.Security.AccessControl.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\System.Security.Claims.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\System.Security.Principal.Windows.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\System.Threading.Thread.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\System.ValueTuple.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\System.Xml.XmlDocument.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\System.Xml.XPath.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\vbc.exe
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\vbc.exe.config
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\vbc.rsp
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\VBCSCompiler.exe
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\VBCSCompiler.exe.config
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\IdeaShop\IdeaShop\IdeaShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\IdeaShop\IdeaShop\IdeaShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\IdeaShop\IdeaShop\IdeaShop\obj\Debug\IdeaShop.csprojAssemblyReference.cache
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\IdeaShop\IdeaShop\IdeaShop\obj\Debug\IdeaShop.csproj.CoreCompileInputs.cache
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\IdeaShop\IdeaShop\IdeaShop\obj\Debug\IdeaShop.csproj.CopyComplete
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\IdeaShop\IdeaShop\IdeaShop\obj\Debug\IdeaShop.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\IdeaShop\IdeaShop\IdeaShop\obj\Debug\IdeaShop.pdb
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\Ideashop 2018-09-28\IdeaShop\IdeaShop\bin\IdeaShop.dll.config
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\Ideashop 2018-09-28\IdeaShop\IdeaShop\bin\IdeaShop.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\Ideashop 2018-09-28\IdeaShop\IdeaShop\bin\IdeaShop.pdb
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\Ideashop 2018-09-28\IdeaShop\IdeaShop\bin\roslyn\csc.exe
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\Ideashop 2018-09-28\IdeaShop\IdeaShop\bin\roslyn\csc.exe.config
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\Ideashop 2018-09-28\IdeaShop\IdeaShop\bin\roslyn\csc.rsp
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\Ideashop 2018-09-28\IdeaShop\IdeaShop\bin\roslyn\csi.exe
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\Ideashop 2018-09-28\IdeaShop\IdeaShop\bin\roslyn\csi.exe.config
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\Ideashop 2018-09-28\IdeaShop\IdeaShop\bin\roslyn\csi.rsp
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\Ideashop 2018-09-28\IdeaShop\IdeaShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\Ideashop 2018-09-28\IdeaShop\IdeaShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\Ideashop 2018-09-28\IdeaShop\IdeaShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\Ideashop 2018-09-28\IdeaShop\IdeaShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\Ideashop 2018-09-28\IdeaShop\IdeaShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\Ideashop 2018-09-28\IdeaShop\IdeaShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\Ideashop 2018-09-28\IdeaShop\IdeaShop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\Ideashop 2018-09-28\IdeaShop\IdeaShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\Ideashop 2018-09-28\IdeaShop\IdeaShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\Ideashop 2018-09-28\IdeaShop\IdeaShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\Ideashop 2018-09-28\IdeaShop\IdeaShop\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\Ideashop 2018-09-28\IdeaShop\IdeaShop\bin\roslyn\System.AppContext.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\Ideashop 2018-09-28\IdeaShop\IdeaShop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\Ideashop 2018-09-28\IdeaShop\IdeaShop\bin\roslyn\System.Console.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\Ideashop 2018-09-28\IdeaShop\IdeaShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\Ideashop 2018-09-28\IdeaShop\IdeaShop\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\Ideashop 2018-09-28\IdeaShop\IdeaShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\Ideashop 2018-09-28\IdeaShop\IdeaShop\bin\roslyn\System.IO.Compression.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\Ideashop 2018-09-28\IdeaShop\IdeaShop\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\Ideashop 2018-09-28\IdeaShop\IdeaShop\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\Ideashop 2018-09-28\IdeaShop\IdeaShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\Ideashop 2018-09-28\IdeaShop\IdeaShop\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\Ideashop 2018-09-28\IdeaShop\IdeaShop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\Ideashop 2018-09-28\IdeaShop\IdeaShop\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\Ideashop 2018-09-28\IdeaShop\IdeaShop\bin\roslyn\System.Security.Claims.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\Ideashop 2018-09-28\IdeaShop\IdeaShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\Ideashop 2018-09-28\IdeaShop\IdeaShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\Ideashop 2018-09-28\IdeaShop\IdeaShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\Ideashop 2018-09-28\IdeaShop\IdeaShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\Ideashop 2018-09-28\IdeaShop\IdeaShop\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\Ideashop 2018-09-28\IdeaShop\IdeaShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\Ideashop 2018-09-28\IdeaShop\IdeaShop\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\Ideashop 2018-09-28\IdeaShop\IdeaShop\bin\roslyn\System.ValueTuple.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\Ideashop 2018-09-28\IdeaShop\IdeaShop\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\Ideashop 2018-09-28\IdeaShop\IdeaShop\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\Ideashop 2018-09-28\IdeaShop\IdeaShop\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\Ideashop 2018-09-28\IdeaShop\IdeaShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\Ideashop 2018-09-28\IdeaShop\IdeaShop\bin\roslyn\vbc.exe
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\Ideashop 2018-09-28\IdeaShop\IdeaShop\bin\roslyn\vbc.exe.config
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\Ideashop 2018-09-28\IdeaShop\IdeaShop\bin\roslyn\vbc.rsp
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\Ideashop 2018-09-28\IdeaShop\IdeaShop\bin\roslyn\VBCSCompiler.exe
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\Ideashop 2018-09-28\IdeaShop\IdeaShop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\Ideashop 2018-09-28\IdeaShop\IdeaShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\Ideashop 2018-09-28\IdeaShop\IdeaShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\Ideashop 2018-09-28\IdeaShop\IdeaShop\obj\Debug\IdeaShop.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\Ideashop 2018-09-28\IdeaShop\IdeaShop\obj\Debug\IdeaShop.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\Ideashop 2018-09-28\IdeaShop\IdeaShop\obj\Debug\IdeaShop.csproj.CopyComplete
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\Ideashop 2018-09-28\IdeaShop\IdeaShop\obj\Debug\IdeaShop.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\Ideashop 2018-09-28\IdeaShop\IdeaShop\obj\Debug\IdeaShop.pdb
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\2E2\2E2\OneDrive_2018-10-04\Ideashop 2018-10-04\IdeaShop\IdeaShop\bin\IdeaShop.dll.config
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\2E2\2E2\OneDrive_2018-10-04\Ideashop 2018-10-04\IdeaShop\IdeaShop\bin\IdeaShop.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\2E2\2E2\OneDrive_2018-10-04\Ideashop 2018-10-04\IdeaShop\IdeaShop\bin\IdeaShop.pdb
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\2E2\2E2\OneDrive_2018-10-04\Ideashop 2018-10-04\IdeaShop\IdeaShop\bin\roslyn\csc.exe
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\2E2\2E2\OneDrive_2018-10-04\Ideashop 2018-10-04\IdeaShop\IdeaShop\bin\roslyn\csc.exe.config
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\2E2\2E2\OneDrive_2018-10-04\Ideashop 2018-10-04\IdeaShop\IdeaShop\bin\roslyn\csc.rsp
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\2E2\2E2\OneDrive_2018-10-04\Ideashop 2018-10-04\IdeaShop\IdeaShop\bin\roslyn\csi.exe
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\2E2\2E2\OneDrive_2018-10-04\Ideashop 2018-10-04\IdeaShop\IdeaShop\bin\roslyn\csi.exe.config
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\2E2\2E2\OneDrive_2018-10-04\Ideashop 2018-10-04\IdeaShop\IdeaShop\bin\roslyn\csi.rsp
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\2E2\2E2\OneDrive_2018-10-04\Ideashop 2018-10-04\IdeaShop\IdeaShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\2E2\2E2\OneDrive_2018-10-04\Ideashop 2018-10-04\IdeaShop\IdeaShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\2E2\2E2\OneDrive_2018-10-04\Ideashop 2018-10-04\IdeaShop\IdeaShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\2E2\2E2\OneDrive_2018-10-04\Ideashop 2018-10-04\IdeaShop\IdeaShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\2E2\2E2\OneDrive_2018-10-04\Ideashop 2018-10-04\IdeaShop\IdeaShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\2E2\2E2\OneDrive_2018-10-04\Ideashop 2018-10-04\IdeaShop\IdeaShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\2E2\2E2\OneDrive_2018-10-04\Ideashop 2018-10-04\IdeaShop\IdeaShop\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\2E2\2E2\OneDrive_2018-10-04\Ideashop 2018-10-04\IdeaShop\IdeaShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\2E2\2E2\OneDrive_2018-10-04\Ideashop 2018-10-04\IdeaShop\IdeaShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\2E2\2E2\OneDrive_2018-10-04\Ideashop 2018-10-04\IdeaShop\IdeaShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\2E2\2E2\OneDrive_2018-10-04\Ideashop 2018-10-04\IdeaShop\IdeaShop\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\2E2\2E2\OneDrive_2018-10-04\Ideashop 2018-10-04\IdeaShop\IdeaShop\bin\roslyn\System.AppContext.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\2E2\2E2\OneDrive_2018-10-04\Ideashop 2018-10-04\IdeaShop\IdeaShop\bin\roslyn\System.Collections.Immutable.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\2E2\2E2\OneDrive_2018-10-04\Ideashop 2018-10-04\IdeaShop\IdeaShop\bin\roslyn\System.Console.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\2E2\2E2\OneDrive_2018-10-04\Ideashop 2018-10-04\IdeaShop\IdeaShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\2E2\2E2\OneDrive_2018-10-04\Ideashop 2018-10-04\IdeaShop\IdeaShop\bin\roslyn\System.Diagnostics.Process.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\2E2\2E2\OneDrive_2018-10-04\Ideashop 2018-10-04\IdeaShop\IdeaShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\2E2\2E2\OneDrive_2018-10-04\Ideashop 2018-10-04\IdeaShop\IdeaShop\bin\roslyn\System.IO.Compression.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\2E2\2E2\OneDrive_2018-10-04\Ideashop 2018-10-04\IdeaShop\IdeaShop\bin\roslyn\System.IO.FileSystem.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\2E2\2E2\OneDrive_2018-10-04\Ideashop 2018-10-04\IdeaShop\IdeaShop\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\2E2\2E2\OneDrive_2018-10-04\Ideashop 2018-10-04\IdeaShop\IdeaShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\2E2\2E2\OneDrive_2018-10-04\Ideashop 2018-10-04\IdeaShop\IdeaShop\bin\roslyn\System.IO.Pipes.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\2E2\2E2\OneDrive_2018-10-04\Ideashop 2018-10-04\IdeaShop\IdeaShop\bin\roslyn\System.Reflection.Metadata.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\2E2\2E2\OneDrive_2018-10-04\Ideashop 2018-10-04\IdeaShop\IdeaShop\bin\roslyn\System.Security.AccessControl.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\2E2\2E2\OneDrive_2018-10-04\Ideashop 2018-10-04\IdeaShop\IdeaShop\bin\roslyn\System.Security.Claims.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\2E2\2E2\OneDrive_2018-10-04\Ideashop 2018-10-04\IdeaShop\IdeaShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\2E2\2E2\OneDrive_2018-10-04\Ideashop 2018-10-04\IdeaShop\IdeaShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\2E2\2E2\OneDrive_2018-10-04\Ideashop 2018-10-04\IdeaShop\IdeaShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\2E2\2E2\OneDrive_2018-10-04\Ideashop 2018-10-04\IdeaShop\IdeaShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\2E2\2E2\OneDrive_2018-10-04\Ideashop 2018-10-04\IdeaShop\IdeaShop\bin\roslyn\System.Security.Principal.Windows.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\2E2\2E2\OneDrive_2018-10-04\Ideashop 2018-10-04\IdeaShop\IdeaShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\2E2\2E2\OneDrive_2018-10-04\Ideashop 2018-10-04\IdeaShop\IdeaShop\bin\roslyn\System.Threading.Thread.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\2E2\2E2\OneDrive_2018-10-04\Ideashop 2018-10-04\IdeaShop\IdeaShop\bin\roslyn\System.ValueTuple.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\2E2\2E2\OneDrive_2018-10-04\Ideashop 2018-10-04\IdeaShop\IdeaShop\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\2E2\2E2\OneDrive_2018-10-04\Ideashop 2018-10-04\IdeaShop\IdeaShop\bin\roslyn\System.Xml.XmlDocument.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\2E2\2E2\OneDrive_2018-10-04\Ideashop 2018-10-04\IdeaShop\IdeaShop\bin\roslyn\System.Xml.XPath.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\2E2\2E2\OneDrive_2018-10-04\Ideashop 2018-10-04\IdeaShop\IdeaShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\2E2\2E2\OneDrive_2018-10-04\Ideashop 2018-10-04\IdeaShop\IdeaShop\bin\roslyn\vbc.exe
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\2E2\2E2\OneDrive_2018-10-04\Ideashop 2018-10-04\IdeaShop\IdeaShop\bin\roslyn\vbc.exe.config
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\2E2\2E2\OneDrive_2018-10-04\Ideashop 2018-10-04\IdeaShop\IdeaShop\bin\roslyn\vbc.rsp
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\2E2\2E2\OneDrive_2018-10-04\Ideashop 2018-10-04\IdeaShop\IdeaShop\bin\roslyn\VBCSCompiler.exe
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\2E2\2E2\OneDrive_2018-10-04\Ideashop 2018-10-04\IdeaShop\IdeaShop\bin\roslyn\VBCSCompiler.exe.config
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\2E2\2E2\OneDrive_2018-10-04\Ideashop 2018-10-04\IdeaShop\IdeaShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\2E2\2E2\OneDrive_2018-10-04\Ideashop 2018-10-04\IdeaShop\IdeaShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\2E2\2E2\OneDrive_2018-10-04\Ideashop 2018-10-04\IdeaShop\IdeaShop\obj\Debug\IdeaShop.csprojAssemblyReference.cache
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\2E2\2E2\OneDrive_2018-10-04\Ideashop 2018-10-04\IdeaShop\IdeaShop\obj\Debug\IdeaShop.csproj.CoreCompileInputs.cache
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\2E2\2E2\OneDrive_2018-10-04\Ideashop 2018-10-04\IdeaShop\IdeaShop\obj\Debug\IdeaShop.csproj.CopyComplete
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\2E2\2E2\OneDrive_2018-10-04\Ideashop 2018-10-04\IdeaShop\IdeaShop\obj\Debug\IdeaShop.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\2E2\2E2\OneDrive_2018-10-04\Ideashop 2018-10-04\IdeaShop\IdeaShop\obj\Debug\IdeaShop.pdb
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\Ideashop 2018-10-08\IdeaShop\IdeaShop\bin\IdeaShop.dll.config
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\Ideashop 2018-10-08\IdeaShop\IdeaShop\bin\IdeaShop.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\Ideashop 2018-10-08\IdeaShop\IdeaShop\bin\IdeaShop.pdb
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\Ideashop 2018-10-08\IdeaShop\IdeaShop\bin\roslyn\csc.exe
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\Ideashop 2018-10-08\IdeaShop\IdeaShop\bin\roslyn\csc.exe.config
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\Ideashop 2018-10-08\IdeaShop\IdeaShop\bin\roslyn\csc.rsp
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\Ideashop 2018-10-08\IdeaShop\IdeaShop\bin\roslyn\csi.exe
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\Ideashop 2018-10-08\IdeaShop\IdeaShop\bin\roslyn\csi.exe.config
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\Ideashop 2018-10-08\IdeaShop\IdeaShop\bin\roslyn\csi.rsp
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\Ideashop 2018-10-08\IdeaShop\IdeaShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\Ideashop 2018-10-08\IdeaShop\IdeaShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\Ideashop 2018-10-08\IdeaShop\IdeaShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\Ideashop 2018-10-08\IdeaShop\IdeaShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\Ideashop 2018-10-08\IdeaShop\IdeaShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\Ideashop 2018-10-08\IdeaShop\IdeaShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\Ideashop 2018-10-08\IdeaShop\IdeaShop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\Ideashop 2018-10-08\IdeaShop\IdeaShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\Ideashop 2018-10-08\IdeaShop\IdeaShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\Ideashop 2018-10-08\IdeaShop\IdeaShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\Ideashop 2018-10-08\IdeaShop\IdeaShop\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\Ideashop 2018-10-08\IdeaShop\IdeaShop\bin\roslyn\System.AppContext.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\Ideashop 2018-10-08\IdeaShop\IdeaShop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\Ideashop 2018-10-08\IdeaShop\IdeaShop\bin\roslyn\System.Console.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\Ideashop 2018-10-08\IdeaShop\IdeaShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\Ideashop 2018-10-08\IdeaShop\IdeaShop\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\Ideashop 2018-10-08\IdeaShop\IdeaShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\Ideashop 2018-10-08\IdeaShop\IdeaShop\bin\roslyn\System.IO.Compression.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\Ideashop 2018-10-08\IdeaShop\IdeaShop\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\Ideashop 2018-10-08\IdeaShop\IdeaShop\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\Ideashop 2018-10-08\IdeaShop\IdeaShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\Ideashop 2018-10-08\IdeaShop\IdeaShop\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\Ideashop 2018-10-08\IdeaShop\IdeaShop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\Ideashop 2018-10-08\IdeaShop\IdeaShop\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\Ideashop 2018-10-08\IdeaShop\IdeaShop\bin\roslyn\System.Security.Claims.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\Ideashop 2018-10-08\IdeaShop\IdeaShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\Ideashop 2018-10-08\IdeaShop\IdeaShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\Ideashop 2018-10-08\IdeaShop\IdeaShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\Ideashop 2018-10-08\IdeaShop\IdeaShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\Ideashop 2018-10-08\IdeaShop\IdeaShop\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\Ideashop 2018-10-08\IdeaShop\IdeaShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\Ideashop 2018-10-08\IdeaShop\IdeaShop\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\Ideashop 2018-10-08\IdeaShop\IdeaShop\bin\roslyn\System.ValueTuple.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\Ideashop 2018-10-08\IdeaShop\IdeaShop\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\Ideashop 2018-10-08\IdeaShop\IdeaShop\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\Ideashop 2018-10-08\IdeaShop\IdeaShop\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\Ideashop 2018-10-08\IdeaShop\IdeaShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\Ideashop 2018-10-08\IdeaShop\IdeaShop\bin\roslyn\vbc.exe
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\Ideashop 2018-10-08\IdeaShop\IdeaShop\bin\roslyn\vbc.exe.config
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\Ideashop 2018-10-08\IdeaShop\IdeaShop\bin\roslyn\vbc.rsp
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\Ideashop 2018-10-08\IdeaShop\IdeaShop\bin\roslyn\VBCSCompiler.exe
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\Ideashop 2018-10-08\IdeaShop\IdeaShop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\Ideashop 2018-10-08\IdeaShop\IdeaShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\Ideashop 2018-10-08\IdeaShop\IdeaShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\Ideashop 2018-10-08\IdeaShop\IdeaShop\obj\Debug\IdeaShop.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\Ideashop 2018-10-08\IdeaShop\IdeaShop\obj\Debug\IdeaShop.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\Ideashop 2018-10-08\IdeaShop\IdeaShop\obj\Debug\IdeaShop.csproj.CopyComplete
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\Ideashop 2018-10-08\IdeaShop\IdeaShop\obj\Debug\IdeaShop.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\Ideashop 2018-10-08\IdeaShop\IdeaShop\obj\Debug\IdeaShop.pdb
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\2E2\2E2\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\2E2\2E2\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\2E2\2E2\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\2E2\2E2\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\2E2\2E2\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\System.IO.Compression.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\2E2\2E2\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\VBCSCompiler.exe
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\2E2\2E2\IdeaShop\IdeaShop\IdeaShop\obj\Debug\IdeaShop.csproj.CoreCompileInputs.cache
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\2E2\2E2\IdeaShop\IdeaShop\IdeaShop\bin\IdeaShop.dll.config
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\2E2\2E2\IdeaShop\IdeaShop\IdeaShop\bin\IdeaShop.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\2E2\2E2\IdeaShop\IdeaShop\IdeaShop\bin\IdeaShop.pdb
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\2E2\2E2\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\csc.exe
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\2E2\2E2\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\csc.exe.config
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\2E2\2E2\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\csc.rsp
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\2E2\2E2\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\csi.exe
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\2E2\2E2\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\csi.exe.config
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\2E2\2E2\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\csi.rsp
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\2E2\2E2\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\2E2\2E2\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\2E2\2E2\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\2E2\2E2\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\2E2\2E2\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\2E2\2E2\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\2E2\2E2\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\2E2\2E2\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\System.AppContext.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\2E2\2E2\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\System.Collections.Immutable.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\2E2\2E2\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\System.Console.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\2E2\2E2\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\2E2\2E2\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\System.Diagnostics.Process.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\2E2\2E2\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\2E2\2E2\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\System.IO.FileSystem.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\2E2\2E2\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\2E2\2E2\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\2E2\2E2\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\System.IO.Pipes.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\2E2\2E2\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\System.Reflection.Metadata.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\2E2\2E2\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\System.Security.AccessControl.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\2E2\2E2\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\System.Security.Claims.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\2E2\2E2\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\2E2\2E2\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\2E2\2E2\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\2E2\2E2\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\2E2\2E2\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\System.Security.Principal.Windows.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\2E2\2E2\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\2E2\2E2\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\System.Threading.Thread.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\2E2\2E2\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\System.ValueTuple.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\2E2\2E2\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\2E2\2E2\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\System.Xml.XmlDocument.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\2E2\2E2\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\System.Xml.XPath.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\2E2\2E2\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\2E2\2E2\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\vbc.exe
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\2E2\2E2\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\vbc.exe.config
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\2E2\2E2\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\vbc.rsp
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\2E2\2E2\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\VBCSCompiler.exe.config
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\2E2\2E2\IdeaShop\IdeaShop\IdeaShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\2E2\2E2\IdeaShop\IdeaShop\IdeaShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\2E2\2E2\IdeaShop\IdeaShop\IdeaShop\obj\Debug\IdeaShop.csproj.CopyComplete
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\2E2\2E2\IdeaShop\IdeaShop\IdeaShop\obj\Debug\IdeaShop.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\2E2\2E2\IdeaShop\IdeaShop\IdeaShop\obj\Debug\IdeaShop.pdb
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\2E2\2E2\IdeaShop\IdeaShop\IdeaShop\obj\Debug\IdeaShop.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-17(TAN)\IdeaShop\IdeaShop\bin\IdeaShop.dll.config
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-17(TAN)\IdeaShop\IdeaShop\bin\IdeaShop.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-17(TAN)\IdeaShop\IdeaShop\bin\IdeaShop.pdb
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-17(TAN)\IdeaShop\IdeaShop\bin\roslyn\csc.exe
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-17(TAN)\IdeaShop\IdeaShop\bin\roslyn\csc.exe.config
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-17(TAN)\IdeaShop\IdeaShop\bin\roslyn\csc.rsp
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-17(TAN)\IdeaShop\IdeaShop\bin\roslyn\csi.exe
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-17(TAN)\IdeaShop\IdeaShop\bin\roslyn\csi.exe.config
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-17(TAN)\IdeaShop\IdeaShop\bin\roslyn\csi.rsp
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-17(TAN)\IdeaShop\IdeaShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-17(TAN)\IdeaShop\IdeaShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-17(TAN)\IdeaShop\IdeaShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-17(TAN)\IdeaShop\IdeaShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-17(TAN)\IdeaShop\IdeaShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-17(TAN)\IdeaShop\IdeaShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-17(TAN)\IdeaShop\IdeaShop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-17(TAN)\IdeaShop\IdeaShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-17(TAN)\IdeaShop\IdeaShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-17(TAN)\IdeaShop\IdeaShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-17(TAN)\IdeaShop\IdeaShop\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-17(TAN)\IdeaShop\IdeaShop\bin\roslyn\System.AppContext.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-17(TAN)\IdeaShop\IdeaShop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-17(TAN)\IdeaShop\IdeaShop\bin\roslyn\System.Console.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-17(TAN)\IdeaShop\IdeaShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-17(TAN)\IdeaShop\IdeaShop\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-17(TAN)\IdeaShop\IdeaShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-17(TAN)\IdeaShop\IdeaShop\bin\roslyn\System.IO.Compression.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-17(TAN)\IdeaShop\IdeaShop\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-17(TAN)\IdeaShop\IdeaShop\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-17(TAN)\IdeaShop\IdeaShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-17(TAN)\IdeaShop\IdeaShop\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-17(TAN)\IdeaShop\IdeaShop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-17(TAN)\IdeaShop\IdeaShop\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-17(TAN)\IdeaShop\IdeaShop\bin\roslyn\System.Security.Claims.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-17(TAN)\IdeaShop\IdeaShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-17(TAN)\IdeaShop\IdeaShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-17(TAN)\IdeaShop\IdeaShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-17(TAN)\IdeaShop\IdeaShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-17(TAN)\IdeaShop\IdeaShop\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-17(TAN)\IdeaShop\IdeaShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-17(TAN)\IdeaShop\IdeaShop\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-17(TAN)\IdeaShop\IdeaShop\bin\roslyn\System.ValueTuple.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-17(TAN)\IdeaShop\IdeaShop\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-17(TAN)\IdeaShop\IdeaShop\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-17(TAN)\IdeaShop\IdeaShop\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-17(TAN)\IdeaShop\IdeaShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-17(TAN)\IdeaShop\IdeaShop\bin\roslyn\vbc.exe
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-17(TAN)\IdeaShop\IdeaShop\bin\roslyn\vbc.exe.config
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-17(TAN)\IdeaShop\IdeaShop\bin\roslyn\vbc.rsp
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-17(TAN)\IdeaShop\IdeaShop\bin\roslyn\VBCSCompiler.exe
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-17(TAN)\IdeaShop\IdeaShop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-17(TAN)\IdeaShop\IdeaShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-17(TAN)\IdeaShop\IdeaShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-17(TAN)\IdeaShop\IdeaShop\obj\Debug\IdeaShop.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-17(TAN)\IdeaShop\IdeaShop\obj\Debug\IdeaShop.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-17(TAN)\IdeaShop\IdeaShop\obj\Debug\IdeaShop.csproj.CopyComplete
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-17(TAN)\IdeaShop\IdeaShop\obj\Debug\IdeaShop.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-17(TAN)\IdeaShop\IdeaShop\obj\Debug\IdeaShop.pdb
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-18\IdeaShop\IdeaShop\bin\IdeaShop.dll.config
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-18\IdeaShop\IdeaShop\bin\IdeaShop.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-18\IdeaShop\IdeaShop\bin\IdeaShop.pdb
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-18\IdeaShop\IdeaShop\bin\roslyn\csc.exe
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-18\IdeaShop\IdeaShop\bin\roslyn\csc.exe.config
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-18\IdeaShop\IdeaShop\bin\roslyn\csc.rsp
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-18\IdeaShop\IdeaShop\bin\roslyn\csi.exe
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-18\IdeaShop\IdeaShop\bin\roslyn\csi.exe.config
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-18\IdeaShop\IdeaShop\bin\roslyn\csi.rsp
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-18\IdeaShop\IdeaShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-18\IdeaShop\IdeaShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-18\IdeaShop\IdeaShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-18\IdeaShop\IdeaShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-18\IdeaShop\IdeaShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-18\IdeaShop\IdeaShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-18\IdeaShop\IdeaShop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-18\IdeaShop\IdeaShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-18\IdeaShop\IdeaShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-18\IdeaShop\IdeaShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-18\IdeaShop\IdeaShop\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-18\IdeaShop\IdeaShop\bin\roslyn\System.AppContext.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-18\IdeaShop\IdeaShop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-18\IdeaShop\IdeaShop\bin\roslyn\System.Console.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-18\IdeaShop\IdeaShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-18\IdeaShop\IdeaShop\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-18\IdeaShop\IdeaShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-18\IdeaShop\IdeaShop\bin\roslyn\System.IO.Compression.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-18\IdeaShop\IdeaShop\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-18\IdeaShop\IdeaShop\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-18\IdeaShop\IdeaShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-18\IdeaShop\IdeaShop\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-18\IdeaShop\IdeaShop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-18\IdeaShop\IdeaShop\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-18\IdeaShop\IdeaShop\bin\roslyn\System.Security.Claims.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-18\IdeaShop\IdeaShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-18\IdeaShop\IdeaShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-18\IdeaShop\IdeaShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-18\IdeaShop\IdeaShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-18\IdeaShop\IdeaShop\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-18\IdeaShop\IdeaShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-18\IdeaShop\IdeaShop\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-18\IdeaShop\IdeaShop\bin\roslyn\System.ValueTuple.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-18\IdeaShop\IdeaShop\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-18\IdeaShop\IdeaShop\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-18\IdeaShop\IdeaShop\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-18\IdeaShop\IdeaShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-18\IdeaShop\IdeaShop\bin\roslyn\vbc.exe
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-18\IdeaShop\IdeaShop\bin\roslyn\vbc.exe.config
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-18\IdeaShop\IdeaShop\bin\roslyn\vbc.rsp
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-18\IdeaShop\IdeaShop\bin\roslyn\VBCSCompiler.exe
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-18\IdeaShop\IdeaShop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-18\IdeaShop\IdeaShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-18\IdeaShop\IdeaShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-18\IdeaShop\IdeaShop\obj\Debug\IdeaShop.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-18\IdeaShop\IdeaShop\obj\Debug\IdeaShop.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-18\IdeaShop\IdeaShop\obj\Debug\IdeaShop.csproj.CopyComplete
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-18\IdeaShop\IdeaShop\obj\Debug\IdeaShop.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-18\IdeaShop\IdeaShop\obj\Debug\IdeaShop.pdb
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\Submitted\IdeaShop\IdeaShop\IdeaShop\bin\IdeaShop.dll.config
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\Submitted\IdeaShop\IdeaShop\IdeaShop\bin\IdeaShop.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\Submitted\IdeaShop\IdeaShop\IdeaShop\bin\IdeaShop.pdb
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\Submitted\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\csc.exe
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\Submitted\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\csc.exe.config
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\Submitted\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\csc.rsp
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\Submitted\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\csi.exe
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\Submitted\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\csi.exe.config
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\Submitted\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\csi.rsp
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\Submitted\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\Submitted\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\Submitted\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\Submitted\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\Submitted\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\Submitted\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\Submitted\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\Submitted\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\Submitted\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\Submitted\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\Submitted\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\Submitted\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\System.AppContext.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\Submitted\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\System.Collections.Immutable.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\Submitted\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\System.Console.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\Submitted\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\Submitted\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\System.Diagnostics.Process.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\Submitted\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\Submitted\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\System.IO.Compression.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\Submitted\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\System.IO.FileSystem.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\Submitted\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\Submitted\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\Submitted\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\System.IO.Pipes.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\Submitted\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\System.Reflection.Metadata.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\Submitted\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\System.Security.AccessControl.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\Submitted\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\System.Security.Claims.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\Submitted\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\Submitted\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\Submitted\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\Submitted\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\Submitted\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\System.Security.Principal.Windows.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\Submitted\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\Submitted\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\System.Threading.Thread.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\Submitted\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\System.ValueTuple.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\Submitted\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\Submitted\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\System.Xml.XmlDocument.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\Submitted\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\System.Xml.XPath.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\Submitted\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\Submitted\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\vbc.exe
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\Submitted\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\vbc.exe.config
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\Submitted\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\vbc.rsp
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\Submitted\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\VBCSCompiler.exe
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\Submitted\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\VBCSCompiler.exe.config
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\Submitted\IdeaShop\IdeaShop\IdeaShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\Submitted\IdeaShop\IdeaShop\IdeaShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\Submitted\IdeaShop\IdeaShop\IdeaShop\obj\Debug\IdeaShop.csprojAssemblyReference.cache
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\Submitted\IdeaShop\IdeaShop\IdeaShop\obj\Debug\IdeaShop.csproj.CoreCompileInputs.cache
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\Submitted\IdeaShop\IdeaShop\IdeaShop\obj\Debug\IdeaShop.csproj.CopyComplete
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\Submitted\IdeaShop\IdeaShop\IdeaShop\obj\Debug\IdeaShop.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\E2\Submitted\IdeaShop\IdeaShop\IdeaShop\obj\Debug\IdeaShop.pdb
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-20(TAN)\IdeaShop\IdeaShop\bin\IdeaShop.dll.config
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-20(TAN)\IdeaShop\IdeaShop\bin\IdeaShop.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-20(TAN)\IdeaShop\IdeaShop\bin\IdeaShop.pdb
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-20(TAN)\IdeaShop\IdeaShop\bin\roslyn\csc.exe
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-20(TAN)\IdeaShop\IdeaShop\bin\roslyn\csc.exe.config
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-20(TAN)\IdeaShop\IdeaShop\bin\roslyn\csc.rsp
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-20(TAN)\IdeaShop\IdeaShop\bin\roslyn\csi.exe
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-20(TAN)\IdeaShop\IdeaShop\bin\roslyn\csi.exe.config
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-20(TAN)\IdeaShop\IdeaShop\bin\roslyn\csi.rsp
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-20(TAN)\IdeaShop\IdeaShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-20(TAN)\IdeaShop\IdeaShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-20(TAN)\IdeaShop\IdeaShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-20(TAN)\IdeaShop\IdeaShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-20(TAN)\IdeaShop\IdeaShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-20(TAN)\IdeaShop\IdeaShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-20(TAN)\IdeaShop\IdeaShop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-20(TAN)\IdeaShop\IdeaShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-20(TAN)\IdeaShop\IdeaShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-20(TAN)\IdeaShop\IdeaShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-20(TAN)\IdeaShop\IdeaShop\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-20(TAN)\IdeaShop\IdeaShop\bin\roslyn\System.AppContext.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-20(TAN)\IdeaShop\IdeaShop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-20(TAN)\IdeaShop\IdeaShop\bin\roslyn\System.Console.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-20(TAN)\IdeaShop\IdeaShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-20(TAN)\IdeaShop\IdeaShop\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-20(TAN)\IdeaShop\IdeaShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-20(TAN)\IdeaShop\IdeaShop\bin\roslyn\System.IO.Compression.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-20(TAN)\IdeaShop\IdeaShop\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-20(TAN)\IdeaShop\IdeaShop\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-20(TAN)\IdeaShop\IdeaShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-20(TAN)\IdeaShop\IdeaShop\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-20(TAN)\IdeaShop\IdeaShop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-20(TAN)\IdeaShop\IdeaShop\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-20(TAN)\IdeaShop\IdeaShop\bin\roslyn\System.Security.Claims.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-20(TAN)\IdeaShop\IdeaShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-20(TAN)\IdeaShop\IdeaShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-20(TAN)\IdeaShop\IdeaShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-20(TAN)\IdeaShop\IdeaShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-20(TAN)\IdeaShop\IdeaShop\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-20(TAN)\IdeaShop\IdeaShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-20(TAN)\IdeaShop\IdeaShop\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-20(TAN)\IdeaShop\IdeaShop\bin\roslyn\System.ValueTuple.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-20(TAN)\IdeaShop\IdeaShop\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-20(TAN)\IdeaShop\IdeaShop\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-20(TAN)\IdeaShop\IdeaShop\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-20(TAN)\IdeaShop\IdeaShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-20(TAN)\IdeaShop\IdeaShop\bin\roslyn\vbc.exe
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-20(TAN)\IdeaShop\IdeaShop\bin\roslyn\vbc.exe.config
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-20(TAN)\IdeaShop\IdeaShop\bin\roslyn\vbc.rsp
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-20(TAN)\IdeaShop\IdeaShop\bin\roslyn\VBCSCompiler.exe
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-20(TAN)\IdeaShop\IdeaShop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-20(TAN)\IdeaShop\IdeaShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-20(TAN)\IdeaShop\IdeaShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-20(TAN)\IdeaShop\IdeaShop\obj\Debug\IdeaShop.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-20(TAN)\IdeaShop\IdeaShop\obj\Debug\IdeaShop.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-20(TAN)\IdeaShop\IdeaShop\obj\Debug\IdeaShop.csproj.CopyComplete
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-20(TAN)\IdeaShop\IdeaShop\obj\Debug\IdeaShop.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-20(TAN)\IdeaShop\IdeaShop\obj\Debug\IdeaShop.pdb
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-22\IdeaShop\IdeaShop\bin\IdeaShop.dll.config
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-22\IdeaShop\IdeaShop\bin\IdeaShop.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-22\IdeaShop\IdeaShop\bin\IdeaShop.pdb
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-22\IdeaShop\IdeaShop\bin\roslyn\csc.exe
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-22\IdeaShop\IdeaShop\bin\roslyn\csc.exe.config
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-22\IdeaShop\IdeaShop\bin\roslyn\csc.rsp
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-22\IdeaShop\IdeaShop\bin\roslyn\csi.exe
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-22\IdeaShop\IdeaShop\bin\roslyn\csi.exe.config
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-22\IdeaShop\IdeaShop\bin\roslyn\csi.rsp
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-22\IdeaShop\IdeaShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-22\IdeaShop\IdeaShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-22\IdeaShop\IdeaShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-22\IdeaShop\IdeaShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-22\IdeaShop\IdeaShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-22\IdeaShop\IdeaShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-22\IdeaShop\IdeaShop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-22\IdeaShop\IdeaShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-22\IdeaShop\IdeaShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-22\IdeaShop\IdeaShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-22\IdeaShop\IdeaShop\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-22\IdeaShop\IdeaShop\bin\roslyn\System.AppContext.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-22\IdeaShop\IdeaShop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-22\IdeaShop\IdeaShop\bin\roslyn\System.Console.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-22\IdeaShop\IdeaShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-22\IdeaShop\IdeaShop\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-22\IdeaShop\IdeaShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-22\IdeaShop\IdeaShop\bin\roslyn\System.IO.Compression.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-22\IdeaShop\IdeaShop\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-22\IdeaShop\IdeaShop\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-22\IdeaShop\IdeaShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-22\IdeaShop\IdeaShop\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-22\IdeaShop\IdeaShop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-22\IdeaShop\IdeaShop\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-22\IdeaShop\IdeaShop\bin\roslyn\System.Security.Claims.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-22\IdeaShop\IdeaShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-22\IdeaShop\IdeaShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-22\IdeaShop\IdeaShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-22\IdeaShop\IdeaShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-22\IdeaShop\IdeaShop\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-22\IdeaShop\IdeaShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-22\IdeaShop\IdeaShop\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-22\IdeaShop\IdeaShop\bin\roslyn\System.ValueTuple.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-22\IdeaShop\IdeaShop\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-22\IdeaShop\IdeaShop\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-22\IdeaShop\IdeaShop\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-22\IdeaShop\IdeaShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-22\IdeaShop\IdeaShop\bin\roslyn\vbc.exe
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-22\IdeaShop\IdeaShop\bin\roslyn\vbc.exe.config
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-22\IdeaShop\IdeaShop\bin\roslyn\vbc.rsp
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-22\IdeaShop\IdeaShop\bin\roslyn\VBCSCompiler.exe
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-22\IdeaShop\IdeaShop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-22\IdeaShop\IdeaShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-22\IdeaShop\IdeaShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-22\IdeaShop\IdeaShop\obj\Debug\IdeaShop.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-22\IdeaShop\IdeaShop\obj\Debug\IdeaShop.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-22\IdeaShop\IdeaShop\obj\Debug\IdeaShop.csproj.CopyComplete
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-22\IdeaShop\IdeaShop\obj\Debug\IdeaShop.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\ideashop 2018-10-22\IdeaShop\IdeaShop\obj\Debug\IdeaShop.pdb
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\C1\IdeaShop-Latest\IdeaShop\IdeaShop\bin\IdeaShop.dll.config
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\C1\IdeaShop-Latest\IdeaShop\IdeaShop\bin\IdeaShop.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\C1\IdeaShop-Latest\IdeaShop\IdeaShop\bin\IdeaShop.pdb
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\C1\IdeaShop-Latest\IdeaShop\IdeaShop\bin\roslyn\csc.exe
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\C1\IdeaShop-Latest\IdeaShop\IdeaShop\bin\roslyn\csc.exe.config
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\C1\IdeaShop-Latest\IdeaShop\IdeaShop\bin\roslyn\csc.rsp
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\C1\IdeaShop-Latest\IdeaShop\IdeaShop\bin\roslyn\csi.exe
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\C1\IdeaShop-Latest\IdeaShop\IdeaShop\bin\roslyn\csi.exe.config
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\C1\IdeaShop-Latest\IdeaShop\IdeaShop\bin\roslyn\csi.rsp
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\C1\IdeaShop-Latest\IdeaShop\IdeaShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\C1\IdeaShop-Latest\IdeaShop\IdeaShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\C1\IdeaShop-Latest\IdeaShop\IdeaShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\C1\IdeaShop-Latest\IdeaShop\IdeaShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\C1\IdeaShop-Latest\IdeaShop\IdeaShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\C1\IdeaShop-Latest\IdeaShop\IdeaShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\C1\IdeaShop-Latest\IdeaShop\IdeaShop\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\C1\IdeaShop-Latest\IdeaShop\IdeaShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\C1\IdeaShop-Latest\IdeaShop\IdeaShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\C1\IdeaShop-Latest\IdeaShop\IdeaShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\C1\IdeaShop-Latest\IdeaShop\IdeaShop\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\C1\IdeaShop-Latest\IdeaShop\IdeaShop\bin\roslyn\System.AppContext.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\C1\IdeaShop-Latest\IdeaShop\IdeaShop\bin\roslyn\System.Collections.Immutable.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\C1\IdeaShop-Latest\IdeaShop\IdeaShop\bin\roslyn\System.Console.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\C1\IdeaShop-Latest\IdeaShop\IdeaShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\C1\IdeaShop-Latest\IdeaShop\IdeaShop\bin\roslyn\System.Diagnostics.Process.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\C1\IdeaShop-Latest\IdeaShop\IdeaShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\C1\IdeaShop-Latest\IdeaShop\IdeaShop\bin\roslyn\System.IO.Compression.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\C1\IdeaShop-Latest\IdeaShop\IdeaShop\bin\roslyn\System.IO.FileSystem.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\C1\IdeaShop-Latest\IdeaShop\IdeaShop\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\C1\IdeaShop-Latest\IdeaShop\IdeaShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\C1\IdeaShop-Latest\IdeaShop\IdeaShop\bin\roslyn\System.IO.Pipes.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\C1\IdeaShop-Latest\IdeaShop\IdeaShop\bin\roslyn\System.Reflection.Metadata.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\C1\IdeaShop-Latest\IdeaShop\IdeaShop\bin\roslyn\System.Security.AccessControl.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\C1\IdeaShop-Latest\IdeaShop\IdeaShop\bin\roslyn\System.Security.Claims.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\C1\IdeaShop-Latest\IdeaShop\IdeaShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\C1\IdeaShop-Latest\IdeaShop\IdeaShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\C1\IdeaShop-Latest\IdeaShop\IdeaShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\C1\IdeaShop-Latest\IdeaShop\IdeaShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\C1\IdeaShop-Latest\IdeaShop\IdeaShop\bin\roslyn\System.Security.Principal.Windows.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\C1\IdeaShop-Latest\IdeaShop\IdeaShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\C1\IdeaShop-Latest\IdeaShop\IdeaShop\bin\roslyn\System.Threading.Thread.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\C1\IdeaShop-Latest\IdeaShop\IdeaShop\bin\roslyn\System.ValueTuple.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\C1\IdeaShop-Latest\IdeaShop\IdeaShop\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\C1\IdeaShop-Latest\IdeaShop\IdeaShop\bin\roslyn\System.Xml.XmlDocument.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\C1\IdeaShop-Latest\IdeaShop\IdeaShop\bin\roslyn\System.Xml.XPath.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\C1\IdeaShop-Latest\IdeaShop\IdeaShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\C1\IdeaShop-Latest\IdeaShop\IdeaShop\bin\roslyn\vbc.exe
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\C1\IdeaShop-Latest\IdeaShop\IdeaShop\bin\roslyn\vbc.exe.config
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\C1\IdeaShop-Latest\IdeaShop\IdeaShop\bin\roslyn\vbc.rsp
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\C1\IdeaShop-Latest\IdeaShop\IdeaShop\bin\roslyn\VBCSCompiler.exe
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\C1\IdeaShop-Latest\IdeaShop\IdeaShop\bin\roslyn\VBCSCompiler.exe.config
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\C1\IdeaShop-Latest\IdeaShop\IdeaShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\C1\IdeaShop-Latest\IdeaShop\IdeaShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\C1\IdeaShop-Latest\IdeaShop\IdeaShop\obj\Debug\IdeaShop.csprojAssemblyReference.cache
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\C1\IdeaShop-Latest\IdeaShop\IdeaShop\obj\Debug\IdeaShop.csproj.CoreCompileInputs.cache
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\C1\IdeaShop-Latest\IdeaShop\IdeaShop\obj\Debug\IdeaShop.csproj.CopyComplete
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\C1\IdeaShop-Latest\IdeaShop\IdeaShop\obj\Debug\IdeaShop.dll
+F:\!Struggle\You're OLD\Fall\Server Side Web\Project\C1\IdeaShop-Latest\IdeaShop\IdeaShop\obj\Debug\IdeaShop.pdb
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\TAN 2018-10-31\IdeaShop\IdeaShop\bin\IdeaShop.dll.config
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\TAN 2018-10-31\IdeaShop\IdeaShop\bin\IdeaShop.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\TAN 2018-10-31\IdeaShop\IdeaShop\bin\IdeaShop.pdb
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\TAN 2018-10-31\IdeaShop\IdeaShop\bin\roslyn\csc.exe
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\TAN 2018-10-31\IdeaShop\IdeaShop\bin\roslyn\csc.exe.config
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\TAN 2018-10-31\IdeaShop\IdeaShop\bin\roslyn\csc.rsp
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\TAN 2018-10-31\IdeaShop\IdeaShop\bin\roslyn\csi.exe
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\TAN 2018-10-31\IdeaShop\IdeaShop\bin\roslyn\csi.exe.config
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\TAN 2018-10-31\IdeaShop\IdeaShop\bin\roslyn\csi.rsp
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\TAN 2018-10-31\IdeaShop\IdeaShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\TAN 2018-10-31\IdeaShop\IdeaShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\TAN 2018-10-31\IdeaShop\IdeaShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\TAN 2018-10-31\IdeaShop\IdeaShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\TAN 2018-10-31\IdeaShop\IdeaShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\TAN 2018-10-31\IdeaShop\IdeaShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\TAN 2018-10-31\IdeaShop\IdeaShop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\TAN 2018-10-31\IdeaShop\IdeaShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\TAN 2018-10-31\IdeaShop\IdeaShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\TAN 2018-10-31\IdeaShop\IdeaShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\TAN 2018-10-31\IdeaShop\IdeaShop\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\TAN 2018-10-31\IdeaShop\IdeaShop\bin\roslyn\System.AppContext.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\TAN 2018-10-31\IdeaShop\IdeaShop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\TAN 2018-10-31\IdeaShop\IdeaShop\bin\roslyn\System.Console.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\TAN 2018-10-31\IdeaShop\IdeaShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\TAN 2018-10-31\IdeaShop\IdeaShop\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\TAN 2018-10-31\IdeaShop\IdeaShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\TAN 2018-10-31\IdeaShop\IdeaShop\bin\roslyn\System.IO.Compression.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\TAN 2018-10-31\IdeaShop\IdeaShop\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\TAN 2018-10-31\IdeaShop\IdeaShop\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\TAN 2018-10-31\IdeaShop\IdeaShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\TAN 2018-10-31\IdeaShop\IdeaShop\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\TAN 2018-10-31\IdeaShop\IdeaShop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\TAN 2018-10-31\IdeaShop\IdeaShop\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\TAN 2018-10-31\IdeaShop\IdeaShop\bin\roslyn\System.Security.Claims.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\TAN 2018-10-31\IdeaShop\IdeaShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\TAN 2018-10-31\IdeaShop\IdeaShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\TAN 2018-10-31\IdeaShop\IdeaShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\TAN 2018-10-31\IdeaShop\IdeaShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\TAN 2018-10-31\IdeaShop\IdeaShop\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\TAN 2018-10-31\IdeaShop\IdeaShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\TAN 2018-10-31\IdeaShop\IdeaShop\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\TAN 2018-10-31\IdeaShop\IdeaShop\bin\roslyn\System.ValueTuple.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\TAN 2018-10-31\IdeaShop\IdeaShop\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\TAN 2018-10-31\IdeaShop\IdeaShop\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\TAN 2018-10-31\IdeaShop\IdeaShop\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\TAN 2018-10-31\IdeaShop\IdeaShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\TAN 2018-10-31\IdeaShop\IdeaShop\bin\roslyn\vbc.exe
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\TAN 2018-10-31\IdeaShop\IdeaShop\bin\roslyn\vbc.exe.config
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\TAN 2018-10-31\IdeaShop\IdeaShop\bin\roslyn\vbc.rsp
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\TAN 2018-10-31\IdeaShop\IdeaShop\bin\roslyn\VBCSCompiler.exe
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\TAN 2018-10-31\IdeaShop\IdeaShop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\TAN 2018-10-31\IdeaShop\IdeaShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\TAN 2018-10-31\IdeaShop\IdeaShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\TAN 2018-10-31\IdeaShop\IdeaShop\obj\Debug\IdeaShop.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\TAN 2018-10-31\IdeaShop\IdeaShop\obj\Debug\IdeaShop.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\TAN 2018-10-31\IdeaShop\IdeaShop\obj\Debug\IdeaShop.csproj.CopyComplete
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\TAN 2018-10-31\IdeaShop\IdeaShop\obj\Debug\IdeaShop.dll
+C:\Users\Student\Desktop\SchoolWork(September2018)\Server Side\OOAD\TeamProject\TAN 2018-10-31\IdeaShop\IdeaShop\obj\Debug\IdeaShop.pdb
+W:\NBCC\Year2FallTerm\Fall\Server Side Web\Project\C1\Submission\IdeaShop\IdeaShop\IdeaShop\bin\IdeaShop.dll.config
+W:\NBCC\Year2FallTerm\Fall\Server Side Web\Project\C1\Submission\IdeaShop\IdeaShop\IdeaShop\bin\IdeaShop.dll
+W:\NBCC\Year2FallTerm\Fall\Server Side Web\Project\C1\Submission\IdeaShop\IdeaShop\IdeaShop\bin\IdeaShop.pdb
+W:\NBCC\Year2FallTerm\Fall\Server Side Web\Project\C1\Submission\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\csc.exe
+W:\NBCC\Year2FallTerm\Fall\Server Side Web\Project\C1\Submission\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\csc.exe.config
+W:\NBCC\Year2FallTerm\Fall\Server Side Web\Project\C1\Submission\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\csc.rsp
+W:\NBCC\Year2FallTerm\Fall\Server Side Web\Project\C1\Submission\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\csi.exe
+W:\NBCC\Year2FallTerm\Fall\Server Side Web\Project\C1\Submission\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\csi.exe.config
+W:\NBCC\Year2FallTerm\Fall\Server Side Web\Project\C1\Submission\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\csi.rsp
+W:\NBCC\Year2FallTerm\Fall\Server Side Web\Project\C1\Submission\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+W:\NBCC\Year2FallTerm\Fall\Server Side Web\Project\C1\Submission\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+W:\NBCC\Year2FallTerm\Fall\Server Side Web\Project\C1\Submission\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+W:\NBCC\Year2FallTerm\Fall\Server Side Web\Project\C1\Submission\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+W:\NBCC\Year2FallTerm\Fall\Server Side Web\Project\C1\Submission\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+W:\NBCC\Year2FallTerm\Fall\Server Side Web\Project\C1\Submission\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+W:\NBCC\Year2FallTerm\Fall\Server Side Web\Project\C1\Submission\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\Microsoft.CSharp.Core.targets
+W:\NBCC\Year2FallTerm\Fall\Server Side Web\Project\C1\Submission\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+W:\NBCC\Year2FallTerm\Fall\Server Side Web\Project\C1\Submission\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+W:\NBCC\Year2FallTerm\Fall\Server Side Web\Project\C1\Submission\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+W:\NBCC\Year2FallTerm\Fall\Server Side Web\Project\C1\Submission\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\Microsoft.Win32.Primitives.dll
+W:\NBCC\Year2FallTerm\Fall\Server Side Web\Project\C1\Submission\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\System.AppContext.dll
+W:\NBCC\Year2FallTerm\Fall\Server Side Web\Project\C1\Submission\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\System.Collections.Immutable.dll
+W:\NBCC\Year2FallTerm\Fall\Server Side Web\Project\C1\Submission\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\System.Console.dll
+W:\NBCC\Year2FallTerm\Fall\Server Side Web\Project\C1\Submission\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+W:\NBCC\Year2FallTerm\Fall\Server Side Web\Project\C1\Submission\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\System.Diagnostics.Process.dll
+W:\NBCC\Year2FallTerm\Fall\Server Side Web\Project\C1\Submission\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+W:\NBCC\Year2FallTerm\Fall\Server Side Web\Project\C1\Submission\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\System.IO.Compression.dll
+W:\NBCC\Year2FallTerm\Fall\Server Side Web\Project\C1\Submission\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\System.IO.FileSystem.dll
+W:\NBCC\Year2FallTerm\Fall\Server Side Web\Project\C1\Submission\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+W:\NBCC\Year2FallTerm\Fall\Server Side Web\Project\C1\Submission\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+W:\NBCC\Year2FallTerm\Fall\Server Side Web\Project\C1\Submission\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\System.IO.Pipes.dll
+W:\NBCC\Year2FallTerm\Fall\Server Side Web\Project\C1\Submission\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\System.Reflection.Metadata.dll
+W:\NBCC\Year2FallTerm\Fall\Server Side Web\Project\C1\Submission\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\System.Security.AccessControl.dll
+W:\NBCC\Year2FallTerm\Fall\Server Side Web\Project\C1\Submission\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\System.Security.Claims.dll
+W:\NBCC\Year2FallTerm\Fall\Server Side Web\Project\C1\Submission\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+W:\NBCC\Year2FallTerm\Fall\Server Side Web\Project\C1\Submission\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+W:\NBCC\Year2FallTerm\Fall\Server Side Web\Project\C1\Submission\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+W:\NBCC\Year2FallTerm\Fall\Server Side Web\Project\C1\Submission\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+W:\NBCC\Year2FallTerm\Fall\Server Side Web\Project\C1\Submission\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\System.Security.Principal.Windows.dll
+W:\NBCC\Year2FallTerm\Fall\Server Side Web\Project\C1\Submission\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+W:\NBCC\Year2FallTerm\Fall\Server Side Web\Project\C1\Submission\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\System.Threading.Thread.dll
+W:\NBCC\Year2FallTerm\Fall\Server Side Web\Project\C1\Submission\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\System.ValueTuple.dll
+W:\NBCC\Year2FallTerm\Fall\Server Side Web\Project\C1\Submission\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\System.Xml.ReaderWriter.dll
+W:\NBCC\Year2FallTerm\Fall\Server Side Web\Project\C1\Submission\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\System.Xml.XmlDocument.dll
+W:\NBCC\Year2FallTerm\Fall\Server Side Web\Project\C1\Submission\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\System.Xml.XPath.dll
+W:\NBCC\Year2FallTerm\Fall\Server Side Web\Project\C1\Submission\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+W:\NBCC\Year2FallTerm\Fall\Server Side Web\Project\C1\Submission\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\vbc.exe
+W:\NBCC\Year2FallTerm\Fall\Server Side Web\Project\C1\Submission\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\vbc.exe.config
+W:\NBCC\Year2FallTerm\Fall\Server Side Web\Project\C1\Submission\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\vbc.rsp
+W:\NBCC\Year2FallTerm\Fall\Server Side Web\Project\C1\Submission\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\VBCSCompiler.exe
+W:\NBCC\Year2FallTerm\Fall\Server Side Web\Project\C1\Submission\IdeaShop\IdeaShop\IdeaShop\bin\roslyn\VBCSCompiler.exe.config
+W:\NBCC\Year2FallTerm\Fall\Server Side Web\Project\C1\Submission\IdeaShop\IdeaShop\IdeaShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+W:\NBCC\Year2FallTerm\Fall\Server Side Web\Project\C1\Submission\IdeaShop\IdeaShop\IdeaShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+W:\NBCC\Year2FallTerm\Fall\Server Side Web\Project\C1\Submission\IdeaShop\IdeaShop\IdeaShop\obj\Debug\IdeaShop.csprojAssemblyReference.cache
+W:\NBCC\Year2FallTerm\Fall\Server Side Web\Project\C1\Submission\IdeaShop\IdeaShop\IdeaShop\obj\Debug\IdeaShop.csproj.CopyComplete
+W:\NBCC\Year2FallTerm\Fall\Server Side Web\Project\C1\Submission\IdeaShop\IdeaShop\IdeaShop\obj\Debug\IdeaShop.dll
+W:\NBCC\Year2FallTerm\Fall\Server Side Web\Project\C1\Submission\IdeaShop\IdeaShop\IdeaShop\obj\Debug\IdeaShop.pdb

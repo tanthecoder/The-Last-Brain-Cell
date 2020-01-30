@@ -1,0 +1,14 @@
+﻿body {
+}
+
+.divSearch {
+    height: 90vh;
+    overflow:scroll;
+}
+
+.prevImage
+{
+    width: 100px;
+    height: 100px;
+}
+

@@ -1,0 +1,162 @@
+﻿body {
+    font-family: 'Comic Sans MS',sans-serif;
+}
+/*The main header in the */
+#main-nav, #Spacetaker {
+    width: 100%;
+    background-color: lightgray;
+}
+
+/*Encompasses the child page*/
+#slavebox {
+    overflow: auto;
+}
+
+/*Images in the main header*/
+#main-nav img {
+    width: 52px;
+}
+
+/*Labels in the login section in the header*/
+#loginStack .aspLabel {
+    display: inline-block;
+    width: 6em;
+    text-align: right;
+    margin-right: 0.25em;
+}
+
+/*Textboxes in the header*/
+#loginStack .aspTextbox {
+    font-size: 0.75em;
+}
+
+/*The shopping cart icon*/
+.glyphicon-shopping-cart {
+    font-size: 50px;
+    position: relative;
+    top: 0.2em;
+}
+
+    /*The little number in the shopping cart*/
+    .glyphicon-shopping-cart .badge {
+        position: absolute;
+        right: -20px;
+        top: -5px;
+    }
+
+/*No longer used?*/
+#cart {
+    margin-top: 1em;
+    text-align: right;
+    float: right;
+}
+
+/*Spans in the right side of the nav*/
+#rightNav span {
+    margin-right: 1em;
+    display: inline-block;
+}
+
+/*Image on the product page*/
+.prodImg {
+    width: 25%;
+}
+
+
+#sideBar {
+    background-color: lightgray;
+    height: 90vh;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+/*Search area*/
+.divSearch {
+    height: 80vh;
+    overflow: auto;
+}
+
+/*Unused, to be implemented*/
+#selCategories {
+    flex-basis: 100%;
+    order: -1;
+}
+
+/*Used in the brief description in the product page*/
+.gray-italic {
+    color: grey;
+    font-style: italic;
+}
+
+/*Header label*/
+#lblMessage {
+    text-shadow: 0 0 10px white,0 0 10px white,0 0 10px white,0 0 10px white,0 0 10px white,0 0 10px white,0 0 10px white,0 0 10px white,0 0 10px white,0 0 10px white,0 0 10px white,0 0 10px white,0 0 10px white,0 0 10px white,0 0 10px white,0 0 10px white,0 0 10px white,0 0 10px white,0 0 10px white,0 0 10px white,0 0 10px white,0 0 10px white,0 0 10px white,0 0 10px white,0 0 10px white,0 0 10px white,0 0 10px white,0 0 10px white;
+}
+
+/*Just Red*/
+.justRed
+{
+    color:red;
+}
+
+.justCenter
+{
+    text-align:center;
+}
+
+/*Checkout Address*/
+.checkoutAddress
+{
+    width: 33%;
+    margin: auto;
+}
+
+.solidLabel
+{
+    width: 5em;
+    text-align:right;
+    display:inline-block;
+    vertical-align:middle;
+}
+
+/*These @media only headings alter css when the screen narrows below max-width*/
+@media only screen and (max-width: 991px) {
+    #main-nav {
+        text-align: center;
+    }
+}
+
+@media only screen and (max-width: 766px) {
+    #sideBar {
+        background-color: lightgray;
+        height: auto;
+        flex-direction: row;
+        text-align: center;
+    }
+
+    #selCategories {
+        flex-basis: 100%;
+        text-align: center;
+    }
+
+    ul li {
+        display: inline;
+        padding: 0 0.5em;
+        border-radius: 10px;
+    }
+
+
+    /*Remember to add this id to the label that says "Enter up to 5 keywords..." */
+    #instructLabel {
+        display: none;
+    }
+
+    #main-nav img {
+        width: 26px;
+    }
+
+    #main-nav .glyphicon-shopping-cart {
+        font-size: 25px;
+    }
+}

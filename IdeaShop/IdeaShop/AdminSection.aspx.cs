@@ -1,0 +1,24 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+using System.Web.UI;
+using System.Web.UI.WebControls;
+
+namespace IdeaShop
+{
+    public partial class AdminSection : System.Web.UI.Page
+    {
+        IdeaHeaderAndSide master;
+        protected void Page_Load(object sender, EventArgs e)
+        {
+            if (master == null)
+            {
+                master = (IdeaHeaderAndSide)this.Master;
+            }
+            else
+
+            master.userIsAdmin("default.aspx");
+        }
+    }
+}
